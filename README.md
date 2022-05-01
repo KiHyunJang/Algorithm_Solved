@@ -3,23 +3,25 @@
 
 ## Programmers
 <pre><code>Level 3</code></pre>
-sssssssss
+- ㄹㅇ
 ------------
 <pre><code>Level 2</code></pre>
+- ㄴㅇㄹ
 ------------
 <pre><code>Level 1</code></pre>
+- ㄴㅇㄹ
 ------------   
    
    
 ## Baekjoon
 <pre><code>Platinum</code></pre>
-ssss
+- ㅇㄴㄹ
 ------------
 <pre><code>Gold</code></pre>
-ss
+- ㄴㅇㄹ
 ------------
 <pre><code>Silver</code></pre>
-ss
+- ㄴㅇㄹ
 ------------
 <pre><code>Bronze</code></pre>
-
+- ㅁㄴㅇ
