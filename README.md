@@ -2,26 +2,27 @@
  Swift 알고리즘 문제 풀이
 
 ## Programmers
-<pre><code>Level 3</code></pre>
+**Level 3**
 - ㄹㅇ
-------------
-<pre><code>Level 2</code></pre>
-- ㄴㅇㄹ
-------------
-<pre><code>Level 1</code></pre>
-- ㄴㅇㄹ
-------------   
    
+**Level 2**
+- ㄴㅇㄹ
+- ㅁㅁㅁ
+**Level 1**
+- ㅇㅁㄴㅇㅁㄴ
+- ㅁㄴㅇㄴㅁㅇㅇㄴㅁㅇ
    
+    
+    
 ## Baekjoon
-<pre><code>Platinum</code></pre>
+**Platinum**
 - ㅇㄴㄹ
-------------
-<pre><code>Gold</code></pre>
+
+**Gold**
 - ㄴㅇㄹ
-------------
-<pre><code>Silver</code></pre>
+
+**Silver**
 - ㄴㅇㄹ
-------------
-<pre><code>Bronze</code></pre>
+
+**Bronze**
 - ㅁㄴㅇ
