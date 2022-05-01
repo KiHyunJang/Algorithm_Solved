@@ -3,25 +3,17 @@
 
 ## Programmers
 **Level 3**
-- ㄹㅇ
    
 **Level 2**
-- ㄴㅇㄹ
-- ㅁㅁㅁ
 
 **Level 1**
-- ㅇㅁㄴㅇㅁㄴ
-- ㅁㄴㅇㄴㅁㅇㅇㄴㅁㅇ
+
    
 ## Baekjoon
 **Platinum**
-- ㅇㄴㄹ
 
 **Gold**
-- ㄴㅇㄹ
 
 **Silver**
-- ㄴㅇㄹ
 
 **Bronze**
-- ㅁㄴㅇ
