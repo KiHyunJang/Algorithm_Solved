@@ -7,7 +7,7 @@
 **Level 2**
 
 **Level 1**
-
+All Solved !   
    
 ## Baekjoon
 **Platinum**
