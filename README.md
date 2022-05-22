@@ -1,19 +1,7 @@
 # Algorithm_Solved
  Swift 알고리즘 문제 풀이
 
-## Programmers
-**Level 3**
-   
-**Level 2**
-
-**Level 1**   
-All Solved !   
-   
-## Baekjoon
-**Platinum**
-
-**Gold**
-
-**Silver**
-
-**Bronze**
+날짜|문제|
+---|---|
+22.05.01|행렬의 덧셈</br>x만큼 간격이 있는 n개의 숫자</br>직사각형 별찍기</br>행렬의 덧셈</br>하샤드 수</br>휴대폰 번호 가리기|
+22.05.02|제일 작은 수 제거하가</br>짝수와 홀수</br>최대공약수와 최소공배수</br>콜라츠 추측</br>평균구하기|
